@@ -12,3 +12,5 @@ TFDR provides high levels of protection when compared to
 control binaries across several benchmarks. We also find the
 associated size overheads to be fairly small when compared
 to previous works
+
+Inspiration of Idea: https://llvm.org/pubs/2010-03-ASPLOS-Shoestring.pdf
